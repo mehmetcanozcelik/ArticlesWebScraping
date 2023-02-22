@@ -1,0 +1,16 @@
+08:32:11,135  INFO JSoupRun:41 - Main Method is activated and connected to website.
+08:32:11,137  INFO JSoupRun:45 - Webpage is scrapped.
+08:32:11,224  INFO JSoupRun:76 - Swing is activated.
+08:32:14,003  INFO JSoupRun:112 - Load Article button activated.
+08:32:14,005  INFO JSoupRun:127 - Load Article method is done.
+08:32:17,077  INFO JSoupRun:148 - Show URL button activated.
+08:32:17,085  INFO JSoupRun:161 - Show URL method is done.
+08:40:16,355  INFO JSoupRun:41 - Main Method is activated and connected to website.
+08:40:16,357  INFO JSoupRun:45 - Webpage is scrapped.
+08:40:16,428  INFO JSoupRun:76 - Swing is activated.
+08:40:22,801  INFO JSoupRun:112 - Load Article button activated.
+08:40:22,803  INFO JSoupRun:127 - Load Article method is done.
+08:40:30,154  INFO JSoupRun:148 - Show URL button activated.
+08:40:30,160  INFO JSoupRun:161 - Show URL method is done.
+08:40:43,081  INFO JSoupRun:148 - Show URL button activated.
+08:40:43,082  INFO JSoupRun:161 - Show URL method is done.
